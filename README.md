@@ -37,4 +37,19 @@ və hər zaman super acarsözü metodun ilk sətirində olmalıdır.
 
 6) **Difference between abstract class and interface ?
 
+* Abstract class abstract və abstract olmayan metodlardan ibarətdir amma
+İnterface isə ancaq abstract metodlardan ibarətdir (amma Java 8-dən bəri İnterface-ə default və static metodlarda yaratmaq oldu və 
+Java 9-dan bəri privite metodlarda yaratmaq oldu.
+
+* Abstract class da static, non-static, final, non-final deyerlər ola bilər amma
+İnterface-də yalnız final və static dəyərlər ola bilər 
+
+* Abstract class-ı miras almaq üçün extend açar sözündən istifadə edilir ,
+İnterface-i miras lmaq üçün implement açar sözündən istifadə edilir 
+
+* Abstract class çoxlu miras almani(multiple inheritance) dəstəkləmir amma İnterface dəstəkləyir
+
+7) **Why java is platform independent?
+
+*
 
