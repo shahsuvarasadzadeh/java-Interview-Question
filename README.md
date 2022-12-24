@@ -51,5 +51,22 @@ Java 9-dan bəri privite metodlarda yaratmaq oldu.
 
 7) **Why java is platform independent?
 
-*
+* Java msüteqil platormadır çünki JVM(Java Virtual Machine) istifadə edir və 
+JVM vasitəsi ilə java bytecodları butun platformalarda çalışdırmaq olar.
 
+8) **What is method overloading in java ?
+
+* Overloading bir class daxilində eyni ada mexsus amma muxtelif parametrlər qəbul edən metodlar varsa buna Overloading deyilir.
+* Overloading olunmus metodu daxil etdikdə Java ilk öncə metodun adını sonra inputlarin sayını və daha sonra inputların tiplərini yoxlayır.
+
+9) **What is difference between c++ and Java ?
+
+* Java müstəqil platformadır amma C++ aslı bir platformadır.
+
+10) **What is JIT compiler ?
+
+* JİT (Java-in-Time) Bytecodalar(.class) JVM vasitəsilə oxunulur və osonra JİT vasitəsi ilə bu kodlar native code-a (machine-readable code) çevrilir və bunun sayəsində daha yuksək prformasa nail olmuş olunur və zamana qənaət edilir və s.
+
+11) **What is bytecode in java ?
+
+* 
